@@ -1,11 +1,3 @@
-<style>
-    body{
-        text-align: center;
-    }
-    img{
-        margin: 0 20px;
-    }
-</style>
 # Ikki sonni qo'shish dasturi.
 # Dastur DotNetda C# dasturlash tilida yozildi.
 ## Author haqida qisqacha:
